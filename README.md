@@ -48,9 +48,9 @@
 
 ## About The Project
 
-![Product Name Screen Shot](https://lavanyavirushan.github.io/m12c-employee-tracker/)
-
 This application allows users to view, add and update departments, employee and employee roles according to user input. Users will be presented with a formatted table showing all of the employee data such as ids, names, titles, departments, salaries and who that employee reports to.
+
+![video](./assets/m12c-employee-tracker.gif)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
